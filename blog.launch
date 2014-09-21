@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.aptana.ruby.debug.core.launchConfigurationType">
+<stringAttribute key="bad_container_name" value="blo"/>
+<stringAttribute key="com.aptana.ruby.debug.ATTR_FILE_NAME" value="/blog/bin/rails"/>
+<stringAttribute key="com.aptana.ruby.debug.ATTR_PROGRAM_ARGUMENTS" value="server"/>
+<stringAttribute key="com.aptana.ruby.debug.ATTR_VM_ARGUMENTS" value=""/>
+<stringAttribute key="com.aptana.ruby.debug.ATTR_WORKING_DIR" value=""/>
+</launchConfiguration>
